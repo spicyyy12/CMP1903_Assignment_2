@@ -1,0 +1,14 @@
+C:\Users\ethan\Desktop\OOP_Assignment_2\bin\Debug\net8.0\OOP_Assignment_2.exe
+C:\Users\ethan\Desktop\OOP_Assignment_2\bin\Debug\net8.0\OOP_Assignment_2.deps.json
+C:\Users\ethan\Desktop\OOP_Assignment_2\bin\Debug\net8.0\OOP_Assignment_2.runtimeconfig.json
+C:\Users\ethan\Desktop\OOP_Assignment_2\bin\Debug\net8.0\OOP_Assignment_2.dll
+C:\Users\ethan\Desktop\OOP_Assignment_2\bin\Debug\net8.0\OOP_Assignment_2.pdb
+C:\Users\ethan\Desktop\OOP_Assignment_2\obj\Debug\net8.0\OOP_Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Desktop\OOP_Assignment_2\obj\Debug\net8.0\OOP_Assignment_2.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\OOP_Assignment_2\obj\Debug\net8.0\OOP_Assignment_2.AssemblyInfo.cs
+C:\Users\ethan\Desktop\OOP_Assignment_2\obj\Debug\net8.0\OOP_Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\OOP_Assignment_2\obj\Debug\net8.0\OOP_Assignment_2.dll
+C:\Users\ethan\Desktop\OOP_Assignment_2\obj\Debug\net8.0\refint\OOP_Assignment_2.dll
+C:\Users\ethan\Desktop\OOP_Assignment_2\obj\Debug\net8.0\OOP_Assignment_2.pdb
+C:\Users\ethan\Desktop\OOP_Assignment_2\obj\Debug\net8.0\OOP_Assignment_2.genruntimeconfig.cache
+C:\Users\ethan\Desktop\OOP_Assignment_2\obj\Debug\net8.0\ref\OOP_Assignment_2.dll
